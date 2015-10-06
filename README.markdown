@@ -28,11 +28,6 @@ This document is not set in stone. If you see something that should be changed, 
 - When a pull request is open that fixes an issue, you're allowed to close the issue before the pull request is merged. This makes it easier to see which issues have not yet been worked on.
 - We integrate GitHub issues with Trello (TODO).
 
-## User feedback
-- General user feedback goes into Trello.
-- Devs can look at the feedback, talk with the person who made it, and create GitHub issues from there.
-- Use whatever tools make the feedback easier to understand (screen shots, etc.)
-
 ## Testing
 - All projects should have some form of automated testing.
 - Doing TDD is encouraged whenever possible.
