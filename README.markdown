@@ -19,7 +19,7 @@ This document is not set in stone. If you see something that should be changed, 
 
 ## Version control
 - We use Git.
-- We use GitHub pull requests for doing code review. Code review should be done most of time, but its not absolutely required. If you believe your change doesn't require a review, you can merge it once the tests have passed.
+- We use GitHub pull requests for doing code review. Code review should be done most of time, but its not absolutely required. If you believe your change doesn't require a review, you can merge it once the tests have passed. Watch [this video](https://www.youtube.com/watch?v=PJjmw9TRB7s) about how to give good reviews.
 - We use [git flow](http://nvie.com/posts/a-successful-git-branching-model/).
 - We strive to write [good commit messages](http://chris.beams.io/posts/git-commit).
 
