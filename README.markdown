@@ -7,15 +7,17 @@ This document is not set in stone. If you see something that should be changed, 
 ## Mantras
 - Get feedback on what you're building quickly.
 - Don't be afraid to try new things. We believe in always using the best tool for the job.
-- Code for now, not for the future.
-- Spend time refactoring.
 - Do your best and ask for help when needed.
 
-## Misc
-- Each project should have a coding style. Enforcing this should be part of CI or some other automated process.
-- Each project should have a script located at `script/bootstrap` which will get everything setup so you're ready to work on the project.
+## Writing code
+- Code for now, not for the future.
+- Spend time refactoring.
 - Pair programming is allowed and encouraged if you think it makes sense for what you're about to work on.
 - "When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature." - Kent Beck.
+
+## Project structure
+- Each project should have a coding style. Enforcing this should be part of CI or some other automated process.
+- Each project should have a script located at `script/bootstrap` which will get everything setup so you're ready to work on the project.
 
 ## Version control
 - We use Git.
