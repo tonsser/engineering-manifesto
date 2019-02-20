@@ -13,6 +13,8 @@ This document is not set in stone. If you see something that should be changed, 
 - Code for now, not for the future.
 - Spend time refactoring.
 - Pair programming is allowed and encouraged. We recommend setting up weekly pair programming sessions with fellow team members.
+- Be pragmatic about your code, e.g. you should always balance the tradeoff between high quality code and fast releases.
+- Technical debt is inevitable, but if technical debt is slowing us down, you should always push towards getting time to refactor the part that is slowing us down.
 
 ## Project structure
 - Each project should have a coding style. Enforcing this should be part of CI or some other automated process.
@@ -45,3 +47,9 @@ This document is not set in stone. If you see something that should be changed, 
 - You should be excited to learn new things and share them with your fellow developers.
 - Acknowledge that programming is about learning.
 - You're encouraged to give talks, or write about, new things you've learned.
+
+## Automation
+- We believe in automating as many things possible in your daily workflow to achieve the highest productivity possible.
+- This also enables the engineers to primarily spent time on exciting stuff
+
+## 
